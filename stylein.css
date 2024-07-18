@@ -1,0 +1,21 @@
+.invo{
+    background-color: rgb(119, 44, 79);
+    color: rgb(255, 255, 255);
+    padding-left: 250px;
+    padding-right: 300px;
+    width: 360px;
+    height: 300px;
+    border: 200px;
+    border-color: blue;
+    font-size: larger;
+    text-align: center;
+    text-align: left;
+    
+}
+.asd{
+    width: 30px;
+    padding: 20px;
+}
+body{
+    background-image: linear-gradient(to bottom right,rgb(238, 196, 222),rgb(147, 32, 103));
+}
